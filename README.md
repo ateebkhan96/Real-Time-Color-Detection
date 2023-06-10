@@ -18,18 +18,7 @@ To use Real Time Color Detection, follow these steps:
 
 ## Examples
 
-### Webcam Color Detection
+| Input | Output |
+|-------|--------|
+| <img src="data/input.gif" width="300" height="450"/> | <img src="data/output.gif" width="300" height="450"/>|
 
-![Webcam Color Detection Example](data\input.gif)
-
-### Video Color Detection
-
-![Video Color Detection Example](data\output.gif)
-
-## Acknowledgements
-
-This project is inspired by the amazing capabilities of OpenCV and the creative potential it offers. Have fun exploring the world of colors!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
